@@ -1,5 +1,5 @@
-[16:55:09] [Server thread/INFO]: Starting minecraft server version 1.10.2
-[16:55:09] [Server console handler/ERROR]: Exception handling console input
+[17:09:10] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[17:09:10] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_111]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_111]
@@ -13,52 +13,80 @@ java.io.IOException: The handle is invalid
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:101) [ld$2.class:?]
-[16:56:53] [Server thread/INFO]: Loading properties
-[16:56:54] [Server thread/INFO]: Default game type: SURVIVAL
-[16:56:54] [Server thread/INFO]: Generating keypair
-[16:56:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:56:54] [Server thread/INFO]: Using default channel type
-[16:57:39] [Server thread/INFO]: Preparing level "world"
-[16:57:44] [Server thread/WARN]: Couldn't find resource table railcraft:chests/village_workshop
-[16:57:44] [Server thread/INFO]: Preparing start region for level 0
-[16:57:47] [Server thread/INFO]: Preparing spawn area: 0%
-[16:57:49] [Server thread/INFO]: Preparing spawn area: 0%
-[16:57:51] [Server thread/INFO]: Preparing spawn area: 22%
-[16:57:53] [Server thread/INFO]: Preparing spawn area: 49%
-[16:57:55] [Server thread/INFO]: Preparing spawn area: 80%
-[16:57:56] [Server thread/INFO]: Done (16.969s)! For help, type "help" or "?"
-[16:57:58] [Server thread/INFO]: FTBLib: Server reloaded in 47ms
-[16:58:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6471ms behind, skipping 129 tick(s)
-[16:58:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2937ms behind, skipping 58 tick(s)
-[17:27:46] [User Authenticator #1/INFO]: UUID of player freeman1223 is 573174d1-505c-4a5f-9d92-43ac1d2538d0
-[17:27:48] [Server thread/INFO]: freeman1223[/25.79.181.10:62695] logged in with entity id 448 at (306.2187167885939, 57.0, 221.61853146670498)
-[17:27:48] [Server thread/INFO]: freeman1223 joined the game
-[17:27:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2743ms behind, skipping 54 tick(s)
-[17:28:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2168ms behind, skipping 43 tick(s)
-[17:30:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3647ms behind, skipping 72 tick(s)
-[17:46:42] [Server thread/INFO]: freeman1223 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[17:46:42] [Server thread/INFO]: freeman1223 left the game
-[18:57:39] [Server thread/INFO]: Server Backup started!
-[18:57:39] [Server thread/INFO]: Turned off world auto-saving
-[18:57:39] [Server thread/INFO]: Saving...
-[18:57:40] [Server thread/INFO]: Saved the world
-[18:57:42] [Thread-45/INFO]: Server backup done in 00:00:01! (27.1MB | 173.7MB)
-[18:57:42] [Server thread/INFO]: Turned on world auto-saving
-[20:57:40] [Server thread/INFO]: Server Backup started!
-[20:57:40] [Server thread/INFO]: Turned off world auto-saving
-[20:57:40] [Server thread/INFO]: Saving...
-[20:57:40] [Server thread/INFO]: Saved the world
-[20:57:42] [Thread-70/INFO]: Server backup done in 00:00:01! (27.1MB | 200.8MB)
-[20:57:42] [Server thread/INFO]: Turned on world auto-saving
-[22:38:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[22:38:23] [Server thread/INFO]: Stopping the server
-[22:38:23] [Server thread/INFO]: Stopping server
-[22:38:23] [Server thread/INFO]: Saving players
-[22:38:23] [Server thread/INFO]: Saving worlds
-[22:38:23] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[22:38:24] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[22:38:24] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[22:38:24] [Server thread/INFO]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
-[22:38:30] [Server Shutdown Thread/INFO]: Stopping server
-[22:38:30] [Server Shutdown Thread/INFO]: Saving players
-[22:38:30] [Server Shutdown Thread/INFO]: Saving worlds
+[17:11:57] [Server thread/INFO]: Loading properties
+[17:11:57] [Server thread/INFO]: Default game type: SURVIVAL
+[17:11:57] [Server thread/INFO]: Generating keypair
+[17:11:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:11:57] [Server thread/INFO]: Using default channel type
+[17:12:38] [Server thread/INFO]: Preparing level "world"
+[17:12:42] [Server thread/WARN]: Couldn't find resource table railcraft:chests/village_workshop
+[17:12:42] [Server thread/INFO]: Preparing start region for level 0
+[17:12:47] [Server thread/INFO]: Preparing spawn area: 0%
+[17:12:49] [Server thread/INFO]: Preparing spawn area: 14%
+[17:12:50] [Server thread/INFO]: Preparing spawn area: 49%
+[17:12:52] [Server thread/INFO]: Preparing spawn area: 80%
+[17:12:53] [Server thread/INFO]: Done (16.815s)! For help, type "help" or "?"
+[17:12:59] [Server thread/INFO]: FTBLib: Server reloaded in 45ms
+[17:13:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4463ms behind, skipping 89 tick(s)
+[17:13:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3377ms behind, skipping 67 tick(s)
+[17:48:25] [User Authenticator #1/INFO]: UUID of player freeman1223 is 573174d1-505c-4a5f-9d92-43ac1d2538d0
+[17:48:28] [Server thread/INFO]: freeman1223[/192.168.1.77:64016] logged in with entity id 446 at (311.5989404238132, 57.0, 219.71374950666134)
+[17:48:28] [Server thread/INFO]: freeman1223 joined the game
+[17:48:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4649ms behind, skipping 92 tick(s)
+[17:49:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2491ms behind, skipping 49 tick(s)
+[17:53:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2111ms behind, skipping 42 tick(s)
+[17:58:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2051ms behind, skipping 41 tick(s)
+[17:58:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2108ms behind, skipping 42 tick(s)
+[18:01:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2521ms behind, skipping 50 tick(s)
+[18:03:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2007ms behind, skipping 40 tick(s)
+[18:04:23] [Server thread/INFO]: freeman1223 has just earned the achievement [Flower Child]
+[18:04:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2080ms behind, skipping 41 tick(s)
+[18:18:45] [Server thread/INFO]: freeman1223 was shot by Skeleton
+[18:18:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4037ms behind, skipping 80 tick(s)
+[18:20:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2014ms behind, skipping 40 tick(s)
+[18:27:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2425ms behind, skipping 48 tick(s)
+[18:47:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2937ms behind, skipping 58 tick(s)
+[18:58:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2088ms behind, skipping 41 tick(s)
+[18:58:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2105ms behind, skipping 42 tick(s)
+[19:02:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2091ms behind, skipping 41 tick(s)
+[19:04:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2486ms behind, skipping 49 tick(s)
+[19:07:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2083ms behind, skipping 41 tick(s)
+[19:11:43] [Server thread/WARN]: freeman1223 moved too quickly! -7.853515084886112,6.5,0.08234033305885191
+[19:12:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2925ms behind, skipping 58 tick(s)
+[19:12:37] [Server thread/INFO]: Server Backup started!
+[19:12:37] [Server thread/INFO]: Turned off world auto-saving
+[19:12:37] [Server thread/INFO]: Saving...
+[19:12:38] [Server thread/INFO]: Saved the world
+[19:12:41] [Thread-45/INFO]: Server backup done in 00:00:03! (28.6MB | 229.4MB)
+[19:12:41] [Server thread/INFO]: Turned on world auto-saving
+[19:31:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2280ms behind, skipping 45 tick(s)
+[19:37:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2078ms behind, skipping 41 tick(s)
+[19:44:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2054ms behind, skipping 41 tick(s)
+[20:04:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2077ms behind, skipping 41 tick(s)
+[20:05:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2099ms behind, skipping 41 tick(s)
+[20:13:12] [Server thread/INFO]: [freeman1223: Set own game mode to Creative Mode]
+[20:13:15] [Server thread/INFO]: [freeman1223: Set own game mode to Survival Mode]
+[20:13:19] [Server thread/INFO]: [freeman1223: Set own game mode to Creative Mode]
+[20:13:37] [Server thread/INFO]: [freeman1223: Set own game mode to Survival Mode]
+[20:13:42] [Server thread/INFO]: [freeman1223: Set own game mode to Creative Mode]
+[20:13:48] [Server thread/INFO]: [freeman1223: Set own game mode to Survival Mode]
+[20:53:05] [Server thread/INFO]: [freeman1223: Set own game mode to Creative Mode]
+[20:53:15] [Server thread/INFO]: [freeman1223: Set own game mode to Survival Mode]
+[21:05:02] [Server thread/INFO]: freeman1223 died from radiation
+[21:05:45] [Server thread/WARN]: freeman1223 moved too quickly! 6.969724754795067,-7.266367993957516,0.035905151162296534
+[21:07:21] [Server thread/INFO]: [freeman1223: Set own game mode to Creative Mode]
+[21:07:45] [Server thread/INFO]: [freeman1223: Set own game mode to Survival Mode]
+[21:10:48] [Server thread/INFO]: freeman1223 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An established connection was aborted by the software in your host machine], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:10:48] [Server thread/INFO]: freeman1223 left the game
+[21:12:37] [Server thread/INFO]: Server Backup started!
+[21:12:37] [Server thread/INFO]: Turned off world auto-saving
+[21:12:37] [Server thread/INFO]: Saving...
+[21:12:38] [Server thread/INFO]: Saved the world
+[21:12:39] [Thread-70/INFO]: Server backup done in 00:00:01! (28.7MB | 249.9MB)
+[21:12:40] [Server thread/INFO]: Turned on world auto-saving
+[23:12:37] [Server thread/INFO]: Server Backup started!
+[23:12:37] [Server thread/INFO]: Turned off world auto-saving
+[23:12:37] [Server thread/INFO]: Saving...
+[23:12:37] [Server thread/INFO]: Saved the world
+[23:12:39] [Thread-95/INFO]: Server backup done in 00:00:01! (28.7MB | 270.3MB)
+[23:12:39] [Server thread/INFO]: Turned on world auto-saving
