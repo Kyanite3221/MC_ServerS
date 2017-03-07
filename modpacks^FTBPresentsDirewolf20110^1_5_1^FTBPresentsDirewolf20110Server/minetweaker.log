@@ -6,3 +6,7 @@ INFO: Initializing 'FTBPresentsDirewolf20110.zs'...
 INFO: Removing 1 recipes
 INFO: Adding recipe for Bag Of Holding
 INFO: Initialized 'FTBPresentsDirewolf20110.zs'
+INFO: Server stopping, Scripts are being rolled back!
+INFO: Removing recipe for Bag Of Holding
+INFO: Restoring 1 recipes
+INFO: tried to remove command: minetweaker failed. THIS IS NOT AN ERROR!
