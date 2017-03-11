@@ -1,5 +1,5 @@
-[17:41:02] [Server thread/INFO]: Starting minecraft server version 1.10.2
-[17:41:02] [Server console handler/ERROR]: Exception handling console input
+[13:10:54] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[13:10:54] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_111]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_111]
@@ -13,54 +13,64 @@ java.io.IOException: The handle is invalid
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_111]
 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:101) [ld$2.class:?]
-[17:43:01] [Server thread/INFO]: Loading properties
-[17:43:01] [Server thread/INFO]: Default game type: SURVIVAL
-[17:43:01] [Server thread/INFO]: Generating keypair
-[17:43:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:43:01] [Server thread/INFO]: Using default channel type
-[17:43:42] [Server thread/INFO]: Preparing level "world"
-[17:43:47] [Server thread/WARN]: Couldn't find resource table railcraft:chests/village_workshop
-[17:43:48] [Server thread/INFO]: Preparing start region for level 0
-[17:43:56] [Server thread/INFO]: Preparing spawn area: 0%
-[17:43:57] [Server thread/INFO]: Preparing spawn area: 3%
-[17:43:59] [Server thread/INFO]: Preparing spawn area: 30%
-[17:44:01] [Server thread/INFO]: Preparing spawn area: 56%
-[17:44:02] [Server thread/INFO]: Preparing spawn area: 91%
-[17:44:02] [Server thread/INFO]: Done (22.320s)! For help, type "help" or "?"
-[17:44:10] [Server thread/INFO]: FTBLib: Server reloaded in 42ms
-[17:44:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2351ms behind, skipping 47 tick(s)
-[17:44:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2256ms behind, skipping 45 tick(s)
-[17:52:20] [User Authenticator #1/INFO]: UUID of player freeman1223 is 573174d1-505c-4a5f-9d92-43ac1d2538d0
-[17:52:22] [Server thread/WARN]: Invalid statistic in .\world\stats\573174d1-505c-4a5f-9d92-43ac1d2538d0.json: Don't know what achievement.tier3bag is
-[17:52:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2772ms behind, skipping 55 tick(s)
-[17:52:25] [Server thread/INFO]: freeman1223[/25.79.181.10:50716] logged in with entity id 427 at (199.01491279100816, 69.0, 239.97760528435458)
-[17:52:25] [Server thread/INFO]: freeman1223 joined the game
-[17:53:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2176ms behind, skipping 43 tick(s)
-[17:53:32] [Server thread/WARN]: freeman1223 moved too quickly! -0.1508560699402608,-11.921593149853734,-0.1558449455502
-[17:53:34] [Server thread/WARN]: freeman1223 moved too quickly! 0.006818996125929289,-10.311880561509525,0.0
-[17:55:23] [Server thread/INFO]: freeman1223 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[17:55:23] [Server thread/INFO]: freeman1223 left the game
-[17:55:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3072ms behind, skipping 61 tick(s)
-[18:43:31] [User Authenticator #2/INFO]: UUID of player freeman1223 is 573174d1-505c-4a5f-9d92-43ac1d2538d0
-[18:43:32] [Server thread/INFO]: freeman1223[/25.79.181.10:51259] logged in with entity id 7446 at (314.50203555059596, 57.0, 224.38983012118396)
-[18:43:32] [Server thread/INFO]: freeman1223 joined the game
-[18:44:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2051ms behind, skipping 41 tick(s)
-[18:49:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2093ms behind, skipping 41 tick(s)
-[18:54:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2060ms behind, skipping 41 tick(s)
-[18:55:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2402ms behind, skipping 48 tick(s)
-[19:05:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2025ms behind, skipping 40 tick(s)
-[19:09:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2039ms behind, skipping 40 tick(s)
-[19:13:47] [Server thread/INFO]: freeman1223 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:13:47] [Server thread/INFO]: freeman1223 left the game
-[19:13:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2663ms behind, skipping 53 tick(s)
-[19:23:17] [Server thread/INFO]: Stopping the server
-[19:23:17] [Server thread/INFO]: Stopping server
-[19:23:17] [Server thread/INFO]: Saving players
-[19:23:17] [Server thread/INFO]: Saving worlds
-[19:23:17] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[19:23:17] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[19:23:17] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[19:23:17] [Server thread/INFO]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
-[19:23:21] [Server Shutdown Thread/INFO]: Stopping server
-[19:23:21] [Server Shutdown Thread/INFO]: Saving players
-[19:23:21] [Server Shutdown Thread/INFO]: Saving worlds
+[13:12:57] [Server thread/INFO]: Loading properties
+[13:12:57] [Server thread/INFO]: Default game type: SURVIVAL
+[13:12:57] [Server thread/INFO]: Generating keypair
+[13:12:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:12:58] [Server thread/INFO]: Using default channel type
+[13:13:41] [Server thread/INFO]: Preparing level "world"
+[13:13:47] [Server thread/WARN]: Couldn't find resource table railcraft:chests/village_workshop
+[13:13:48] [Server thread/INFO]: Preparing start region for level 0
+[13:13:53] [Server thread/INFO]: Preparing spawn area: 0%
+[13:13:55] [Server thread/INFO]: Preparing spawn area: 10%
+[13:13:57] [Server thread/INFO]: Preparing spawn area: 37%
+[13:13:58] [Server thread/INFO]: Preparing spawn area: 46%
+[13:13:59] [Server thread/INFO]: Preparing spawn area: 53%
+[13:14:01] [Server thread/INFO]: Preparing spawn area: 63%
+[13:14:01] [Server thread/INFO]: Done (20.045s)! For help, type "help" or "?"
+[13:14:11] [Server thread/INFO]: FTBLib: Server reloaded in 46ms
+[13:14:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5116ms behind, skipping 102 tick(s)
+[13:17:01] [User Authenticator #1/INFO]: UUID of player freeman1223 is 573174d1-505c-4a5f-9d92-43ac1d2538d0
+[13:17:05] [Server thread/INFO]: freeman1223[/25.79.181.10:61226] logged in with entity id 418 at (311.97834513501624, 57.0, 219.14859361580156)
+[13:17:05] [Server thread/INFO]: freeman1223 joined the game
+[13:17:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6195ms behind, skipping 123 tick(s)
+[13:17:20] [Server thread/INFO]: freeman1223 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:17:20] [Server thread/INFO]: freeman1223 left the game
+[13:18:15] [User Authenticator #2/INFO]: UUID of player Boaz_n_Hoes is 8c08abeb-5298-4469-a739-2134c05d038d
+[13:18:17] [Server thread/INFO]: Boaz_n_Hoes[/25.78.62.28:65219] logged in with entity id 1146 at (160.03687019046788, 79.0, 193.93134778954698)
+[13:18:17] [Server thread/INFO]: Boaz_n_Hoes joined the game
+[13:19:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2370ms behind, skipping 47 tick(s)
+[13:21:33] [User Authenticator #3/INFO]: UUID of player freeman1223 is 573174d1-505c-4a5f-9d92-43ac1d2538d0
+[13:21:35] [Server thread/INFO]: freeman1223[/25.79.181.10:61314] logged in with entity id 4717 at (317.2146032970822, 57.0, 219.3276770395877)
+[13:21:35] [Server thread/INFO]: freeman1223 joined the game
+[13:23:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3220ms behind, skipping 64 tick(s)
+[13:24:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2703ms behind, skipping 54 tick(s)
+[13:26:57] [Server thread/INFO]: freeman1223 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:26:57] [Server thread/INFO]: freeman1223 left the game
+[13:26:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2141ms behind, skipping 42 tick(s)
+[13:27:00] [User Authenticator #4/INFO]: UUID of player freeman1223 is 573174d1-505c-4a5f-9d92-43ac1d2538d0
+[13:27:01] [Server thread/INFO]: freeman1223[/25.79.181.10:61359] logged in with entity id 15844 at (308.96218082017384, 57.0, 221.69999998807907)
+[13:27:01] [Server thread/INFO]: freeman1223 joined the game
+[13:27:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2428ms behind, skipping 48 tick(s)
+[13:28:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2306ms behind, skipping 46 tick(s)
+[13:29:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2630ms behind, skipping 52 tick(s)
+[13:31:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3437ms behind, skipping 68 tick(s)
+[13:33:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3022ms behind, skipping 60 tick(s)
+[13:33:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3436ms behind, skipping 68 tick(s)
+[13:34:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2966ms behind, skipping 59 tick(s)
+[13:35:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3441ms behind, skipping 68 tick(s)
+[13:37:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3024ms behind, skipping 60 tick(s)
+[13:38:32] [Server thread/INFO]: freeman1223 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:38:32] [Server thread/INFO]: freeman1223 left the game
+[13:38:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2818ms behind, skipping 56 tick(s)
+[13:38:46] [Server thread/INFO]: Boaz_n_Hoes lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:38:46] [Server thread/INFO]: Boaz_n_Hoes left the game
+[13:39:29] [Server thread/INFO]: Stopping the server
+[13:39:30] [Server thread/INFO]: Stopping server
+[13:39:30] [Server thread/INFO]: Saving players
+[13:39:30] [Server thread/INFO]: Saving worlds
+[13:39:30] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[13:39:32] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[13:39:32] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[13:39:32] [Server thread/INFO]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[13:39:36] [Server Shutdown Thread/INFO]: Stopping server
